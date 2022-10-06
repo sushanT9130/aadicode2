@@ -1,7 +1,7 @@
 class script(object):
     START_TXT = """ Hey👋🏻 {} I Am ᴠᴀᴀʀɪ ! This Is Official Bot Of #ʀᴇǫᴜᴇsᴛʙᴏx1 ! You Must Buy Premium Membership At @rb1official\n
  ✰ I Am A Advanced AutoFilter Bot Made with Python By #ʀᴇǫᴜᴇsᴛʙᴏx1 Enjoy By Adding To Your Group """
-    HELP_TXT = """Hey {} You Must Buy Premium Membership! Rates At @rb1official
+    HELP_TXT = """Hey {} You Must Buy Premium Membership! Rates At @rb1official\nTC Apllied
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂"""
     ABOUT_TXT = """
 ✩ C𝚁𝙴𝙰𝚃𝙾𝚁 : <a href=https://t.me/know_sarthak16>✮ ꜱᴀʀᴛʜᴀᴋ ✮</a>
@@ -80,7 +80,7 @@ I Am Not Creator Of This Source Code 😌 ! This Is Modified Version By ʀᴇǫ�
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
 <b>NOTE:</b>
-these are the extra features of ##ʀᴇǫᴜᴇsᴛʙᴏx1
+these are the extra features of #ʀᴇǫᴜᴇsᴛʙᴏx1
 <b>Commands and Usage:</b>
 • /id - <code>get id of a specified user.</code>
 • /info  - <code>get information about a user.</code>
