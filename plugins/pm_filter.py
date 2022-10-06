@@ -428,7 +428,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('Extra Mods', callback_data='extra')
         ], [
             InlineKeyboardButton('🏠 Home', callback_data='start'),
-            InlineKeyboardButton('🔮 ᴀʙᴏᴜᴛ ᴍᴇ 🔮', callback_data='stats')
+            InlineKeyboardButton('🔮 ᴀʙᴏᴜᴛ ᴍᴇ 🔮', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -504,7 +504,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "extra":
         buttons = [[
             InlineKeyboardButton('🤧 Go Back 🤧', callback_data='help'),
-            InlineKeyboardButton('🔥 DEVS 🔥', callback_data='admin')
+            InlineKeyboardButton('🔥 DEVS 🔥', callback_data='source')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
