@@ -404,13 +404,16 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer()
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+            InlineKeyboardButton('➕ 𝘾𝙡𝙞𝙘𝙠 𝙝𝙚𝙧𝙚 𝙏𝙤 𝘼𝙙𝙙 𝙈𝙚 𝙄𝙣 𝙔𝙤𝙪𝙧 𝙂𝙧𝙤𝙪𝙥 ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
             InlineKeyboardButton('🔍 ꜱᴇᴀʀᴄʜ 🔍', switch_inline_query_current_chat=''),
             InlineKeyboardButton('💸 ʙᴜʏ ᴘʀᴇᴍɪᴜᴍ 💸',url='https://t.me/rb1official')
         ], [
-            InlineKeyboardButton('💲 Get Help 💲', callback_data='help'),
+            InlineKeyboardButton('💲 Ｈｅｌｐ 💲', callback_data='help'),
             InlineKeyboardButton('🏹 ᴀʙᴏᴜᴛ ᴍᴇ 🏹', callback_data='about')
+        ], [
+            InlineKeyboardButton('ᴏꜰꜰɪᴄɪᴀʟ ɢʀᴏᴜᴘ',url='https://t.me/+EpnHCopIWPs5OTdl'),
+            InlineKeyboardButton('ʙᴀᴄᴋᴜᴘ ɢʀᴏᴜᴘ',url='https://t.me/+-g8IZGK3UMdiNWNl')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -440,6 +443,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('✌️ Group Updates ✌️', url='https://t.me/requestbox1official'),
             InlineKeyboardButton('🌸 Devs Of Bot 🌸', callback_data='source')
+        ], [
+            InlineKeyboardButton('🔒 ᴜᴘᴅᴀᴛᴇꜱ 1', url='https://t.me/requestbox1official'),
+            InlineKeyboardButton('🔔 ᴜᴘᴅᴀᴛᴇꜱ 2', url='https://t.me/rb1official')
         ], [
             InlineKeyboardButton('🏠 Home', callback_data='start'),
             InlineKeyboardButton('🔐 Close', callback_data='close_data')
