@@ -1,16 +1,18 @@
-<p align="centre"
-  <b>Requestbox1 Bots</b>
-</h1>
+[![For Requestbox1](https://telegra.ph/file/0c7feb4bb33cc9935778e.jpg)](https://telegra.ph/file/0c7feb4bb33cc9935778e.jpg "Time To Chill And Buy Me A Coffee")
 
+</p>
+<h1 align="center">
+  <b>ʀᴇQᴜᴇꜱᴛʙᴏx1</b>
 
-[![Stars](https://img.shields.io/github/stars/EvamariaTG/EvaMaria?style=flat-square&color=pink)](https://github.com/sarthakKale16/aadicode2)
-[![Forks](https://img.shields.io/github/forks/EvamariaTG/EvaMaria?style=flat-square&color=red)](https://github.com/sarthakKale16/aadicode2/fork)
-[![Size](https://img.shields.io/github/repo-size/EvamariaTG/EvaMaria?style=flat-square&color=yellow)](https://github.com/sarthakKale16/aadicode2/)   
+[![GitHub 2](https://img.shields.io/badge/Another-GitHub-39302f?style=flat&logo=github)](https://telegram.dog/sarthak_xd)  
+
+[![Stars](https://img.shields.io/github/stars/sarthakkale16/aadicode2?style=flat-square&color=pink)](https://github.com/sarthakKale16/aadicode2)
+[![Forks](https://img.shields.io/github/forks/sarthakkale16/aadicode2?style=flat-square&color=red)](https://github.com/sarthakKale16/aadicode2/fork)
+[![Size](https://img.shields.io/github/repo-size/sarthakkale16/aadicode2?style=flat-square&color=yellow)](https://github.com/sarthakKale16/aadicode2/)   
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/sarthakkale16/aadicode2)   
 [![Contributors](https://img.shields.io/github/contributors/sarthakkale16/aadicode2?style=flat-square&color=blue)](https://github.com/sarthakkale16/aadicode2/graphs/contributors)
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/sarthakkale16/aadicode2/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/sarthakkale16/aadicode2.svg)](https://stars.medv.io/sarthakkale16/aadicode2)
-
+[![Snapchat](https://img.shields.io/badge/Snapchat-30806f?style=flat&logo=snapchat)](https://www.snapchat.com/add/sarthakkale16)  
 
 ## Features
 
@@ -29,7 +31,7 @@
 - [x] File Store
 ## Variables
 
-Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up with your edits.
+Read [this](https://t.me/Store1_robot?start=6345f0e718fdd) before you start messing up with your edits To Deploy Your Own Auto Filter Bot.
 
 ### Required Variables
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
